@@ -1,16 +1,50 @@
-## Hi there 👋
 
-<!--
-**AbdullWeb/AbdullWeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋 I'm Abduljelil Redwan
 
-Here are some ideas to get you started:
+💻 IT Student (3rd Year)
+🌍 Web Developer | Java Developer
+🚀 Passionate about building software and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🧑‍💻 About Me
+
+- 🎓 IT Student
+- 💡 Interested in Web Development and Software Engineering
+- 🛠 Currently working on University Management System
+- 📚 Learning Java, PHP, and MySQL
+
+---
+
+🚀 Skills
+
+- Java
+- PHP
+- MySQL
+- HTML & CSS
+- JavaScript
+
+---
+
+📂 Projects
+
+🎓 University Management System
+
+A web-based system for managing students, teachers, and results.
+
+Features:
+
+- Student Management
+- Teacher Management
+- Result Management
+- Admin Dashboard
+
+---
+
+📫 Contact Me
+
+- GitHub: https://github.com/AbdullWeb
+
+---
+
+⭐ Thank you for visiting my profile!
