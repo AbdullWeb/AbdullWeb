@@ -1,50 +1,86 @@
+<h1 align="center">Hi 👋, I'm Abdujalil Redwan</h1>
 
-Hi 👋 I'm Abduljelil Redwan
+<h3 align="center">
+Software Developer | IT Student | Web & Java Developer
+</h3>
 
-💻 IT Student (3rd Year)
-🌍 Web Developer | Java Developer
-🚀 Passionate about building software and learning new technologies.
-
----
-
-🧑‍💻 About Me
-
-- 🎓 IT Student
-- 💡 Interested in Web Development and Software Engineering
-- 🛠 Currently working on University Management System
-- 📚 Learning Java, PHP, and MySQL
+<p align="center">
+Passionate about designing, developing, and deploying modern software solutions.
+Dedicated to continuous learning and building technology that solves real-world problems.
+</p>
 
 ---
 
-🚀 Skills
+## 👨‍💻 About Me
 
+- 🎓 Fourth-Year Information Technology Student at Dire Dawa University
+- 💻 Passionate about Software Development and Problem Solving
+- 🌐 Interested in Full-Stack Web Development and Mobile Applications
+- 📚 Continuously improving my skills in Java, PHP, JavaScript, and MySQL
+- 🚀 Currently developing a **University Management System**
+- 🌱 Always exploring new technologies and software engineering best practices
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
 - Java
 - PHP
-- MySQL
-- HTML & CSS
 - JavaScript
+- SQL
+
+### Frontend
+- HTML5
+- CSS3
+- Bootstrap
+
+### Database
+- MySQL
+
+### Tools & Technologies
+- Git
+- GitHub
+- VS Code
+- NetBeans
+- XAMPP
 
 ---
 
-📂 Projects
+## 🚀 Featured Project
 
-🎓 University Management System
+### 🎓 University Management System
 
-A web-based system for managing students, teachers, and results.
+A comprehensive web-based application designed to streamline university administration and academic management.
 
-Features:
+### Key Features
 
-- Student Management
-- Teacher Management
-- Result Management
-- Admin Dashboard
-
----
-
-📫 Contact Me
-
-- GitHub: https://github.com/AbdullWeb
+- 👨‍🎓 Student Management
+- 👨‍🏫 Faculty Management
+- 📚 Course Management
+- 📝 Result Management
+- 📊 Administrative Dashboard
+- 🔐 Secure User Authentication
 
 ---
 
-⭐ Thank you for visiting my profile!
+## 📈 Current Goals
+
+- Build professional full-stack web applications
+- Strengthen backend development skills
+- Learn modern frameworks and cloud technologies
+- Contribute to open-source projects
+- Grow as a Software Engineer
+
+---
+
+## 📫 Connect With Me
+
+- 💼 GitHub: https://github.com/AbdullWeb
+- 📧 Email: abduljelilredwan6.com
+
+---
+
+<p align="center">
+"Clean Code • Continuous Learning • Building Real-World Solutions"
+</p>
